@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    float: left;
+    padding: 20px;
+}
+.home{
+    padding-top: 250px;
+    text-align: center;
+    color: white;
+   }
+   .home img{
+    padding-left: 900px;
+    
+   }
+h1{font-size: 80px;
+            
+        }
+h3{
+    padding-right: 330px;
+}
+.abt{
+    color: white;
+    padding-top: 300px;
+}
+.abt img{
+    padding-left: 500px;
+}
+h2{
+    font-size: 50px;
+    text-align: center;
+    margin-bottom: 15px;
+   text-decoration: underline;
+}
+p.a{
+    font-size: 25px;
+    text-align: justify;
+    
+}
+.edu{
+    padding-top: 300px;
+    color: white;
+    font-size: 25px;
+
+}
+table{
+    border-style: solid;
+    border-color: white
+    text-align: center;
+    margin-left: 300px;
+    margin-right: auto;
+    
+}
+th,td{
+    border-style: solid;
+    text-align: center;
+    border-color:white
+    padding: 25px;
+}
+.cnt{
+    padding-top: 300px;
+    color: white;
+}
+table.new
+{
+    border: none;
+    text-align: left;
+    margin-left: 500px;
+}
+td.new{
+    border: none;
+    text-align: left;
+}
